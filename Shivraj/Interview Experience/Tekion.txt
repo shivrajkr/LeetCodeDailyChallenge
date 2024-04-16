@@ -1,0 +1,13 @@
+Round 1 : 3 puzzle and 1 DSA - 1 hour
+
+Puzzle : 
+
+1) Water jug puzzle - https://www.geeksforgeeks.org/puzzle-measure-4-litre-with-3-and-5-litre-bottle/
+2) Rope burning - https://www.geeksforgeeks.org/puzzle-1-how-to-measure-45-minutes-using-two-identical-wires/
+3) Balls weight - https://www.geeksforgeeks.org/puzzle-8-balls-problem/
+
+DSA: Binary search algorithm
+
+https://leetcode.com/problems/search-in-rotated-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150
+
+Result : I have cleared the 1st round and qualified for 2nd round.
