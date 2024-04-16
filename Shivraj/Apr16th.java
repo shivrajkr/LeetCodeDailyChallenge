@@ -16,6 +16,7 @@
 //https://leetcode.com/problems/add-one-row-to-tree/description/?envType=daily-question&envId=2024-04-16
 class Solution {
       // Recursive function to traverse till depth-1
+      // TC : O(n) SC : O(Depth of tree) n - size of the nodes.
     public void addOneRowRecur(TreeNode root, int val, int depth,int currDepth,boolean gotResult)
     {
         // Root become null, if root don't has left or right child
